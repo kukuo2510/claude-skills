@@ -1,6 +1,6 @@
 ---
 name: screenshot
-description: 截取使用者的 Windows 桌面畫面（或拿剪貼簿／最新一張快捷鍵截圖）給 Claude 看。當使用者說「/screenshot」「截圖看一下」「你看我的螢幕」「看我剛剛截的圖」，或任務需要看桌面程式、遊戲、錯誤視窗等瀏覽器以外的畫面時使用。網頁畫面優先用 claude-in-chrome。
+description: 截取使用者的 Windows 桌面畫面（或拿剪貼簿／最新一張快捷鍵截圖）給 Claude 看。當使用者說「/screenshot」「截圖看一下」「你看我的螢幕」「看我剛剛截的圖」，或任務需要看桌面程式、遊戲、錯誤視窗等瀏覽器以外的畫面時使用。Also use for "take a screenshot", "look at my screen", "check the screenshot I just took".網頁畫面優先用 claude-in-chrome。
 ---
 
 # 截圖給 Claude 看
